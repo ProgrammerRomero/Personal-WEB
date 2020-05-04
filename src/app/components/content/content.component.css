@@ -1,0 +1,89 @@
+
+
+.title1{
+    /* font-family: 'Titan One', cursive; */
+    /* font-family: 'Passion One', cursive; */
+    /* font-family: 'Black Han Sans', sans-serif; */
+
+    
+    /* font-family: 'Paytone One', sans-serif; */
+    /* font-family: 'Carter One', cursive; */
+    /* font-family: 'Marko One', serif; */
+    /* font-family: 'Chau Philomene One', sans-serif; */
+    /* font-family: 'Arya', sans-serif; */
+    /* font-family: 'Baloo Paaji 2', cursive; */
+
+    font-family: 'Raleway', sans-serif;
+
+
+
+    font-size: 180px;
+    color: #ffffff;
+    padding: 50px 0px 0px 100px;
+    
+}
+
+
+
+.title2{
+    /* font-family: 'Titan One', cursive; */
+    /* font-family: 'Passion One', cursive; */
+    /* font-family: 'Black Han Sans', sans-serif; */
+
+    /* font-family: 'Paytone One', sans-serif; */
+    /* font-family: 'Carter One', cursive; */
+    /* font-family: 'Marko One', serif; */
+    /* font-family: 'Chau Philomene One', sans-serif; */
+    /* font-family: 'Arya', sans-serif; */
+
+    font-family: 'Raleway', sans-serif;
+
+    font-size: 180px;
+    color: #ffffff;
+    padding: 0px 0px 0px 100px;
+    margin-top: -120px;
+}
+
+.text1{
+    /* font-family: 'Courgette', cursive; */
+    /* font-family: 'Galada', cursive; */
+
+    font-family: 'Raleway', sans-serif;
+
+    font-size: 60px;
+    color: #08FED8;
+    padding: 0px 0px 0px 100px;
+}
+
+.text2{
+    /* font-family: 'Courgette', cursive; */
+    /* font-family: 'Galada', cursive; */
+
+    font-family: 'Raleway', sans-serif;
+
+    font-size: 60px;
+    color: #08FED8;
+    padding: 0px 0px 80px 100px;
+    margin-top: -30px;
+}
+
+
+.btn {
+    font-family: 'Raleway', sans-serif;
+    color: #08FED8;
+    background-color: #252627;
+
+    padding: 8px 60px 8px 60px;
+    margin-left: 100px;
+
+    border-radius: 12px;
+    border-color: #08FED8;
+}
+
+:hover > .btn{
+    background-color: #08FED8;
+    color: #252627;
+}
+
+
+
